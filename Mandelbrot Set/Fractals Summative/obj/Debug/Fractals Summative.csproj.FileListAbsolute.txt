@@ -1,0 +1,19 @@
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\bin\Debug\Fractals Summative.exe.config
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\bin\Debug\Fractals Summative.exe
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\bin\Debug\Fractals Summative.pdb
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals Summative.csprojResolveAssemblyReference.cache
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals_Summative.Form1.resources
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals_Summative.Properties.Resources.resources
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals Summative.csproj.GenerateResource.Cache
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals Summative.exe
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\obj\Debug\Fractals Summative.pdb
+c:\users\vishu_yashu\documents\visual studio 2015\Projects\Fractals Summative\Fractals Summative\bin\Debug\Mandelbrot Set.exe.config
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\bin\Debug\Mandelbrot Set.exe.config
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\bin\Debug\Mandelbrot Set.exe
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\bin\Debug\Mandelbrot Set.pdb
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Fractals Summative.csprojResolveAssemblyReference.cache
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Fractals_Summative.Form1.resources
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Fractals Summative.csproj.GenerateResource.Cache
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Mandelbrot Set.exe
+C:\Users\Vishu_Yashu\Documents\Visual Studio 2015\Projects\Mandelbrot Set\Fractals Summative\obj\Debug\Mandelbrot Set.pdb
